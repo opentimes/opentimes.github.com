@@ -1,0 +1,3 @@
+User-agent: * 
+Sitemap: http://www.opentimes.ro/sitemap.xml
+Disallow: /cgi-bin/

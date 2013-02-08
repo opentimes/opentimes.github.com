@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> 
+<head> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/> 
+<title>Open Times Google map</title> 
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA5vQqYYVaCACLAe-TSREgFBSLgqYZpH5_WkySjFZ1zv9vRd657RQTJYVhGhhYPvUN4dZWgr6DEEj-Ng" type="text/javascript"></script>
+<script type="text/javascript">
+var map;
+var icon0;
+var newpoints = new Array();
+ 
+function addLoadEvent(func) { 
+	var oldonload = window.onload; 
+	if (typeof window.onload != 'function'){ 
+		window.onload = func
+	} else { 
+		window.onload = function() {
+			oldonload();
+			func();
+		}
+	}
+}
+ 
+addLoadEvent(loadMap);
+addLoadEvent(addPoints);
+ 
+function loadMap() {
+	map = new GMap2(document.getElementById("map"));
+	map.addControl(new GLargeMapControl());
+	map.addControl(new GMapTypeControl());
+	map.setCenter(new GLatLng( 46.07305943601396, 23.580206036567688), 17);
+	map.setMapType(G_HYBRID_MAP);
+ 
+	icon0 = new GIcon();
+	icon0.image = "http://www.google.com/mapfiles/marker.png";
+	icon0.shadow = "http://www.google.com/mapfiles/shadow50.png";
+	icon0.iconSize = new GSize(20, 34);
+	icon0.shadowSize = new GSize(37, 34);
+	icon0.iconAnchor = new GPoint(9, 34);
+	icon0.infoWindowAnchor = new GPoint(9, 2);
+	icon0.infoShadowAnchor = new GPoint(18, 25);
+}
+ 
+function addPoints() {
+ 
+	newpoints[0] = new Array(46.07305943601396, 23.58014702796936, icon0, 'LED screen', 'Open Times Advertising<br>outdoor video LED screen<img src="../img/img_4_thumb.JPG" width=200 height=150>'); 
+	newpoints[1] = new Array(46.073394371288735, 23.580994606018066, icon0, 'Open Times Office', 'Open Times Office<br>no. 3, Avram Iancu str. 2-nd Floor<br>ALBA IULIA, ROMANIA'); 
+ 
+	for(var i = 0; i < newpoints.length; i++) {
+		var point = new GPoint(newpoints[i][1],newpoints[i][0]);
+		var popuphtml = newpoints[i][4] ;
+		var marker = createMarker(point,newpoints[i][2],popuphtml);
+		map.addOverlay(marker);
+	}
+}
+ 
+function createMarker(point, icon, popuphtml) {
+	var popuphtml = "<div id=\"popup\">" + popuphtml + "<\/div>";
+	var marker = new GMarker(point, icon);
+	GEvent.addListener(marker, "click", function() {
+		marker.openInfoWindowHtml(popuphtml);
+	});
+	return marker;
+}
+//]]>
+</script>
+ 
+<style type="text/css">
+div#popup {
+background:#EFEFEF;
+border:1px solid #999999;
+margin:0px;
+padding:7px;
+width:270px;
+}
+</style>
+</head>
+<body>
+<div id="map" style="width:900px;height:588px"></div>
+</body>
+</html>

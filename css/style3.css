@@ -1,0 +1,36 @@
+﻿@charset"iso-8859-1";
+body{margin:0;padding:0;border:0;font-family:"Tahoma";font-size:0.8em;color:#000;background:url("../img/bck1.jpg") repeat-x left top;border-top:10px solid #0A3079}
+#container{padding:0;border:0;width:992px;margin:0 auto;background-color:#adf;}
+#masthead{text-align:right;width:auto;overflow:auto;margin:0;padding:0;border:0;}
+#sidebar{float:left;width:120px;background-color:#adf;position:relative;clear:both;display:inline;}
+#content{float:left;width:860px;height:auto;padding:4px;overflow:auto;background:#fff url("../img/bkgd_corner.gif") no-repeat;margin:0px;padding:0;border:0;position:relative;}
+#content img{display:block;}
+#footer{clear:both;width:auto;background-color:#cef;margin:0;padding:0;border:0;overflow:auto;border-top:1px solid #137;border-bottom:1px solid #fff}
+#masthead img{float:left;}
+#masthead p{text-align:right;margin:0;margin-top:5px;margin-right:10px;padding:0;}
+#sidebar ul{list-style-type:none;width:100%;display:block;margin:0;padding:0;}
+#sidebar li{display:block;border:1px solid #cdf;}
+#sidebar a{font-weight:bold;text-decoration:none;color:#04b;display:block;padding:5px;border-bottom:0px solid #f9f9f9}
+04b;background-color:#fff}
+#footer p{font-size:0.9em;text-align:center;margin:0px;padding:2px;}
+#footer a{color:#888;text-decoration:none;}
+#footer a:hover{color:#04b;text-decoration:none;}
+a{color:#555;text-decoration:underline;}
+a:hover{color:#04b;text-decoration:none;}
+.style_bold{font-weight:bold;}
+.style_italic{font-style:italic;}
+#left{font-family:Tahoma;padding:4px;position:relative;width:48%;float:left;text-align:left;text-indent:4px;}
+#right{font-family:Tahoma;padding:2px;position:relative;width:49%;float:right;text-align:left;}
+#lbOverlay{position:fixed;z-index:9999;left:0;top:0;width:100%;height:100%;background-color:#000;cursor:pointer;}
+#lbCenter, #lbBottomContainer{position:absolute;z-index:9999;overflow:hidden;background-color:#fff;}
+.lbLoading{background:#fff url(loading.gif) no-repeat center;}
+#lbImage{position:absolute;left:0;top:0;border:10px solid #fff;background-repeat:no-repeat;}
+#lbPrevLink, #lbNextLink{display:block;position:absolute;top:0;width:50%;outline:none;}
+#lbPrevLink{left:0;}
+#lbPrevLink:hover{background:transparent url(prevlabel.gif) no-repeat 0 15%;}
+#lbNextLink{right:0;}
+#lbNextLink:hover{background:transparent url(nextlabel.gif) no-repeat 100% 15%;}
+#lbBottom{font-family:Verdana, Arial, Geneva, Helvetica, sans-serif;font-size:10px;color:#666;line-height:1.4em;text-align:left;border:10px solid #fff;border-top-style:none;}
+#lbCloseLink{display:block;float:right;width:66px;height:22px;background:transparent url(closelabel.gif) no-repeat center;margin:5px 0;outline:none;}
+#lbCaption, #lbNumber{margin-right:71px;}
+#lbCaption{font-weight:bold;}

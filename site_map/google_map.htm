@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico" />
+<title>Open Times Google Maps</title>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA5vQqYYVaCACLAe-TSREgFBSLgqYZpH5_WkySjFZ1zv9vRd657RQTJYVhGhhYPvUN4dZWgr6DEEj-Ng"
+type="text/javascript"></script>
+<script type="text/javascript">
+
+//<![CDATA[
+
+function load() {
+if (GBrowserIsCompatible()) {
+var map = new GMap2(document.getElementById("map"));
+map.addControl(new GLargeMapControl());
+map.addControl(new GMapTypeControl());
+map.setCenter(new GLatLng(46.0727, 23.58), 17);
+map.setMapType(G_HYBRID_MAP)
+var point = new GPoint(45.90138, 23.65654); GEvent.addListener(marker, "click", function() { marker.openInfoWindowHtml("LED screen"); }); map.addOverlay(marker);
+
+  }
+ }
+ 
+//]]>
+
+</script>
+</head>
+<body onload="load()" onunload="GUnload()">
+<div id="map" style="width: 1000px; height: 750px"></div>
+</body>
+</html>

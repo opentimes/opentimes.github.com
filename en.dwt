@@ -1,0 +1,176 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Open Times Advertising</title>
+<!-- #EndEditable -->
+<meta name="robots" content="index,follow,all" />
+<meta name="revisit-after" content="7 days" />
+<meta name="author" content="Promovis, web design, gazduire, optimizare, promovare site web" />
+<meta name="Name" content="Open Times, Alba Iulia - outdoor advertising giant LED screen" />
+<meta name="rating" content="general" />
+<meta name="distribution" content="global" />
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+<link href="css/style3.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.style11 {
+	text-align: left;
+}
+.style12 {
+	border-width: 0;
+}
+.style15 {
+	border-width: 0;
+	text-align: left;
+	font-size: small;
+	color: #0033CC;
+	font-family: Tahoma;
+}
+.style18 {
+	text-align: center;
+}
+.style19 {
+	border-width: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.style21 {
+	text-align: right;
+	background-color: #AADDFF;
+}
+</style>
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'but/buttonCD.jpg',/*url*/'but/buttonCE.jpg',/*url*/'but/buttonE3.jpg',/*url*/'but/buttonE4.jpg',/*url*/'but/button113.jpg',/*url*/'but/button114.jpg',/*url*/'but/button116.jpg',/*url*/'but/button117.jpg',/*url*/'but/button119.jpg',/*url*/'but/button11A.jpg',/*url*/'but/button11C.jpg',/*url*/'but/button11D.jpg',/*url*/'but/button3C.jpg',/*url*/'but/button3D.jpg')">
+
+<div class="style18">
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead" class="style18">
+		<img alt="Open Times Outdoor Advertising - giant LED screen" src="img/colt.jpg" width="120" height="100" class="style12" />
+		<!-- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+width="700" height="100" id="open_alfa40_DoubleZoom" align="" style="float: left">
+<div class="style18">
+<param name="movie" value="styles/open_alfa40_DoubleZoom.swf"><param name="quality" value="high">
+<embed src="styles/open_alfa40_DoubleZoom.swf" quality=high  width="700" height="100" name="open_alfa40_DoubleZoom" align=""
+type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</embed></div>
+		</object> -->
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" id="Open-Times" align="left" style="width: 300px; height: 100px"> 
+<param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="styles/Open-Times.swf" /><param name="menu" value="false" />
+<param name="quality" value="High" /><param name="scale" value="NoBorder" /><param name="wmode" value="transparent" />
+<param name="loop" value="false" />
+<embed src="styles/Open-Times.swf" menu="false" quality="High" scale="NoBorder" wmode="transparent" name="Open-Times" align="left" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="width: 300px; height: 100px" loop="false" /> 
+</object>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Sidebar -->
+		<div id="sidebar" class="style11">
+			<table class="style21" style="width: 100%" cellspacing="0" cellpadding="0" align="right">
+				<tr><td>
+					<a href="index.htm" style="width: 110px">
+					<img alt="outdoor LED screen Advertising" src="img/rom.png" width="30" height="15" style="float: right" class="style19" />RO</a>
+					</td></tr>
+				<tr>
+					<td style="width: 45px" class="style19">
+					<a href="index-en.htm">
+					<img style="border: 0" id="img1" src="but/buttonCC.jpg" height="20" width="100" alt="Home" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'but/buttonCD.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'but/buttonCC.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'but/buttonCE.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'but/buttonCD.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 1; fp-font-style: Bold; fp-font-color-normal: #0000FF; fp-font-color-hover: #000080; fp-bgcolor: #AADDFF" fp-title="Home" --></a></td>
+				</tr>
+				<tr>
+					<td style="width: 45px" class="style19">
+					<a href="serv/services.htm">
+					<img style="border: 0" id="img2" src="but/buttonE2.jpg" height="20" width="100" alt="Services" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'but/buttonE3.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'but/buttonE2.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'but/buttonE4.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'but/buttonE3.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 1; fp-font-style: Bold; fp-font-color-normal: #0000FF; fp-font-color-hover: #000080; fp-bgcolor: #AADDFF" fp-title="Services" --></a></td>
+				</tr>
+				<tr>
+					<td style="width: 45px" class="style19">
+					<a href="noi/us.htm">
+					<img style="border: 0" id="img3" src="but/button112.jpg" height="20" width="100" alt="About Us" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'but/button113.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'but/button112.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'but/button114.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'but/button113.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 1; fp-font-style: Bold; fp-font-color-normal: #0000FF; fp-font-color-hover: #000080; fp-bgcolor: #AADDFF" fp-title="About Us" --></a></td>
+				</tr>
+				<tr>
+					<td style="width: 45px" class="style19">
+					<a href="client/clients.htm">
+					<img style="border: 0" id="img4" src="but/button115.jpg" height="20" width="100" alt="Clients" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'but/button116.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'but/button115.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'but/button117.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'but/button116.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 1; fp-font-style: Bold; fp-font-color-normal: #0000FF; fp-font-color-hover: #000080; fp-bgcolor: #AADDFF" fp-title="Clients" --></a></td>
+				</tr>
+				<tr>
+					<td style="width: 45px" class="style19">
+					<a href="gallery/photo.htm">
+					<img style="border: 0" id="img5" src="but/button118.jpg" height="20" width="100" alt="Photo Gallery" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'but/button119.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'but/button118.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'but/button11A.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'but/button119.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 1; fp-font-style: Bold; fp-font-color-normal: #0000FF; fp-font-color-hover: #000080; fp-bgcolor: #AADDFF" fp-title="Photo Gallery" --></a></td>
+				</tr>
+				<tr>
+					<td style="width: 45px" class="style19">
+					<a href="contact/contact-en.htm">
+					<img style="border: 0" id="img6" src="but/button11B.jpg" height="20" width="100" alt="Contact" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'but/button11C.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'but/button11B.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'but/button11D.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'but/button11C.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 1; fp-font-style: Bold; fp-font-color-normal: #0000FF; fp-font-color-hover: #000080; fp-bgcolor: #AADDFF" fp-title="Contact" --></a></td>
+				</tr>
+			</table>
+		</div>
+		<!-- End Sidebar -->
+		<!-- Begin Content -->
+		<div id="content" style="left: 0px; top: 0px">
+			<!-- #BeginEditable "content" -->
+			<h2>Headline 2</h2>
+			<p>insert content here</p>
+			<!-- #EndEditable --></div>
+		<!-- End Content --></div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p>
+		<a href="index-en.htm">Home</a> |
+		<a href="serv/services.htm">Services</a> |
+		<a href="noi/us.htm">About Us</a> |
+		<a href="client/clients.htm">Clients</a> |
+		<a href="gallery/photo.htm">Photo Gallery</a> |
+		<a href="contact/contact-en.htm">Contact</a> |
+		<a href="site_map/site_map.htm">Site Map</a></p>
+		<p>		&nbsp;© 2008 Open Times&nbsp;&nbsp;</p>
+	</div><!-- End Footer -->
+	</div><!-- End Container -->
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2373076-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://slimbox.googlecode.com/svn/trunk/js/slimbox2.js"></script>
+<script type="text/javascript" src="http://slimbox.googlecode.com/svn/trunk/js/autoload.js"></script>
+</body>
+
+</html>
